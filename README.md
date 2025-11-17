@@ -1,6 +1,6 @@
 # 3dMegaBonk
 CS583 Final Projection
-Name of game
+Zombie Survivor 
 
 #Names of group members
 Emily Stratoudis, 
