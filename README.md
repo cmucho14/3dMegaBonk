@@ -12,3 +12,5 @@ Description of current target for the game (does not need to be final)
   -Scripting enemy AI 
 -Emily:
   -UI/UX design
+-Lachlan: 
+  -Art and Level design
