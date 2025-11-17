@@ -1,4 +1,4 @@
-# ZOmbie Survivor
+# Zombie Survivor
 CS583 Final Projection
 Zombie Survivor 
 
